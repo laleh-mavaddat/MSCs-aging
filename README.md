@@ -1,4 +1,4 @@
-# Transcriptomic Analysis of Young and Aged Human MSC
+# Transcriptomic Analysis of Young and Aged Human MSCs
 
 This repository contains the full R code used in the manuscript:
 
